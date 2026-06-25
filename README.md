@@ -10,7 +10,7 @@
 
 ## Technical Skills
 
-Python
+- Python
 - Machine Learning
 - Data Science
 - Git & GitHub
@@ -21,7 +21,7 @@ Python
 - Data Analysis
 - Open Source Learning
 
-##Connect With Me
+## Connect With Me
 
 - LinkedIn : www.linkedin.com/in/lipi-tak
 - Email : lipitak55@gmail.com
